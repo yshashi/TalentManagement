@@ -1,0 +1,15 @@
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/bin/Debug/net7.0/TalentManagementAPI.Application.deps.json
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/bin/Debug/net7.0/TalentManagementAPI.Application.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/bin/Debug/net7.0/TalentManagementAPI.Application.pdb
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/bin/Debug/net7.0/TalentManagementAPI.Domain.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/bin/Debug/net7.0/TalentManagementAPI.Domain.pdb
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.csproj.AssemblyReference.cache
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.AssemblyInfoInputs.cache
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.AssemblyInfo.cs
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.csproj.CoreCompileInputs.cache
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.csproj.CopyComplete
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/refint/TalentManagementAPI.Application.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/TalentManagementAPI.Application.pdb
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Application/obj/Debug/net7.0/ref/TalentManagementAPI.Application.dll

@@ -1,0 +1,12 @@
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/bin/Debug/net7.0/TalentManagementAPI.Domain.deps.json
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/bin/Debug/net7.0/TalentManagementAPI.Domain.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/bin/Debug/net7.0/TalentManagementAPI.Domain.pdb
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.csproj.AssemblyReference.cache
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.AssemblyInfoInputs.cache
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.AssemblyInfo.cs
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/refint/TalentManagementAPI.Domain.dll
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/TalentManagementAPI.Domain.pdb
+/Users/sashikumaryadav/Desktop/Sashi/MyProjects/DotNet/TalentManagement-ApiResources-Net7/TalentManagementAPI/TalentManagementAPI.Domain/obj/Debug/net7.0/ref/TalentManagementAPI.Domain.dll

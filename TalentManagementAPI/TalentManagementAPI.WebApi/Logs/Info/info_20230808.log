@@ -1,0 +1,4 @@
+2023-08-08T00:02:06.3341430+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 32744.0350 ms
+2023-08-08T00:03:01.2375610+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 32895.7698 ms
+2023-08-08T00:08:42.3072870+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 128857.4103 ms
+2023-08-08T00:13:18.7337600+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 264982.3388 ms

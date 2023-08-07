@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0sO8PZqxYuk7o5vy6tnNtkukgt+Lwv5pwgwEHCuI+kI=",
+  "Source": "TalentManagementAPI.WebApi",
+  "BasePath": "_content/TalentManagementAPI.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

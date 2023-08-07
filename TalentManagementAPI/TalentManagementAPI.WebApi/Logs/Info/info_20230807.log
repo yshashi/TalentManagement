@@ -1,0 +1,17 @@
+2023-08-07T23:19:34.1562760+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger" responded 301 in 101.2072 ms
+2023-08-07T23:19:34.3073510+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/index.html" responded 200 in 82.5429 ms
+2023-08-07T23:19:34.3583030+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 28.4917 ms
+2023-08-07T23:19:34.4116690+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 51.9708 ms
+2023-08-07T23:19:34.4118000+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 80.2313 ms
+2023-08-07T23:19:34.7698060+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 1.3765 ms
+2023-08-07T23:19:34.8654690+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 111.8544 ms
+2023-08-07T23:20:57.5571580+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 425.0750 ms
+2023-08-07T23:21:57.4005690+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Positions" responded 200 in 399.0161 ms
+2023-08-07T23:22:19.9460660+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/info" responded 200 in 8.7549 ms
+2023-08-07T23:51:58.5689940+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 37.9760 ms
+2023-08-07T23:56:24.2327160+08:00 [INF] () Application Starting
+2023-08-07T23:56:34.7397960+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/index.html" responded 200 in 230.0812 ms
+2023-08-07T23:56:35.2615760+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 128.4075 ms
+2023-08-07T23:58:19.3825740+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/index.html" responded 200 in 161.9504 ms
+2023-08-07T23:58:19.8239540+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 97.7371 ms
+2023-08-07T23:59:48.4844650+08:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/v1/Employees" responded 200 in 78604.9932 ms
